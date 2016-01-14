@@ -1,0 +1,96 @@
+{
+	"files": {
+		"app_app_js": {
+			"filename": "app/app.js",
+			"version": "816ce23e1fe6e16df9fb93b53fe95db7b508bf60ea234d663b2127b75e87de3a"
+		},
+		"app_controllers_js": {
+			"filename": "app/controllers.js",
+			"version": "8de1219fa53d20e723b43ea22f50a26a636ef014eb132eff7d3c6062d410e367"
+		},
+		"app_datas_js": {
+			"filename": "app/datas.js",
+			"version": "998474c7bf5228568f7a613779e163d29cf516c56b2c759c175146ed4d0a80fc"
+		},
+		"app_directives_js": {
+			"filename": "app/directives.js",
+			"version": "2c85a93b21dd9f8451a2d51ab08b02afa0a461663bc583e41489bc13f082098c"
+		},
+		"app_models_js": {
+			"filename": "app/models.js",
+			"version": "3d5034b86de4587f07c38716ac2dd850ca0cefe4bb7ad90e939f0c41bc647137"
+		},
+		"app_services_js": {
+			"filename": "app/services.js",
+			"version": "cc1de45bc98e3c707b6d99c5518335501375f331b6f048c2f6566a38d86b601b"
+		},
+		"app_views_js": {
+			"filename": "app/views.js",
+			"version": "6e49fe13fa6dd9ad7703e7deebd0f9bc2fc203eb6a159f2a98648d49d50d773e"
+		},
+		"css_app_css": {
+			"filename": "css/app.css",
+			"version": "940b00e28449da95d37025bc01d871b395e5eedf1b04f6a0ad8d6d4de9d6395b"
+		},
+		"css_ionic_css": {
+			"filename": "css/ionic.css",
+			"version": "42083b4834ddc6c0114ab976158bff575e6eac227bd0a869ee7962fac1eb29e7"
+		},
+		"fonts_ionicons_eot": {
+			"filename": "fonts/ionicons.eot",
+			"version": "b4fb94d228c4e361d4023ded06e936faef1dd47803078dc09c6f817c10200f94"
+		},
+		"fonts_ionicons_svg": {
+			"filename": "fonts/ionicons.svg",
+			"version": "dd1d74abcb411c1c0d334e3dbd47820e990f99e8b10f239b93eb73d721084078"
+		},
+		"fonts_ionicons_ttf": {
+			"filename": "fonts/ionicons.ttf",
+			"version": "0f0a877cb57958bb6f34bac7695aca9f90f62d9a89e9dc6c16bd96e0aca8c987"
+		},
+		"fonts_ionicons_woff": {
+			"filename": "fonts/ionicons.woff",
+			"version": "4beadc9808f7c1c96c3ca7276372fb4b351891adc1261a989f2553147505eec8"
+		},
+		"img_logo_png": {
+			"filename": "img/logo.png",
+			"version": "aafedca7aa1e3259c0e18d11c0013aaf506b3f307c8d580b34b14b6a234c8325"
+		},
+		"lib_angular-ionic_js": {
+			"filename": "lib/angular-ionic.js",
+			"version": "f314f90f351620be571b1128cff91a068a907b3f9d0e9a70643f80a4a278f829"
+		},
+		"update_app-loader_js": {
+			"filename": "update/app-loader.js",
+			"version": "7d9d3c5d0f3a3aabbdac36d27fff21bc34713d914f8844821e884f7dce8e305c"
+		},
+		"update_bootstrap_js": {
+			"filename": "update/bootstrap.js",
+			"version": "43ac5255229b9c85a67de85d422b67c48d57cb8f3e3159694a7c8928db075a8b"
+		},
+		"update_cordovaapploader_js": {
+			"filename": "update/CordovaAppLoader.js",
+			"version": "09d7f7b2b5234012edef8d4bc314f451477dc89b4c01509fafde0c1fc0710ee4"
+		},
+		"update_cordovapromisefs_js": {
+			"filename": "update/CordovaPromiseFS.js",
+			"version": "10a9e9a18a41961441b3b8be45620130240a3806c2a337ef057a4c73b250cd8d"
+		}
+	},
+	"load": [
+		"css/ionic.css",
+		"css/app.css",
+		"update/CordovaAppLoader.js",
+		"update/CordovaPromiseFS.js",
+		"lib/angular-ionic.js",
+		"app/app.js",
+		"app/datas.js",
+		"app/models.js",
+		"app/services.js",
+		"app/controllers.js",
+		"app/directives.js",
+		"app/views.js",
+		"update/app-loader.js"
+	],
+	"version": "1.0.1"
+}

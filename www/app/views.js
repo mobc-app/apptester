@@ -1,0 +1,1 @@
+angular.module("app.view").run(["$templateCache",function(a){a.put("start.html","<div ng-controller=controllerStart data-start={{vm.gotoHome()}}>start</div>")}]);
